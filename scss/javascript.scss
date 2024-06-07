@@ -1,0 +1,142 @@
+@import"javascriptnulavo.scss";
+.firstcontainer {
+	display: flex;
+	margin: 20px;
+	gap: 10px;
+}
+
+.black {
+	height: 30px;
+	width: 100px;
+	background-color: red;
+}
+
+.touchmiPerent {
+	display: flex;
+	position: relative;
+	width: 1000px;
+	height: 150px;
+	
+}
+
+.AJAX {
+	display: flex;
+	flex-direction: column;
+}
+
+.ajaxihamarrub {
+	margin-right:50px ;
+	height: 40px;
+	border: 2px #000 solid;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.ajaxihamarusd {
+	margin-right:50px ;
+	height: 40px;
+	border: 2px #000 solid;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.touchme {
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100px;
+	width: 150px;
+	background-color: red;
+	margin: 20px 0 0 20px;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.box {
+	border: 2px #000 solid;
+	min-width: 50px;
+	height: 50px;
+	margin: 20px 50px 0 200px
+}
+
+.buttons  {
+	box-shadow: 1px 1px  1px red;
+	font-size: 15px;
+	font-weight: 500;
+	background: green;
+	padding: 14px 28px;	
+	color: #fff;
+	border-radius: 10px;
+}
+
+.red {
+	background-color: red; //esi js ova avelacrac -raboti
+}
+
+.blue {
+	background-color: blue;
+	height: 80px;
+	width: 80px;
+	border-radius: 20px;
+}
+
+.buttonsporc {
+	box-shadow: 1px 1px  1px red;
+	font-size: 15px;
+	font-weight: 500;
+	background: #000;
+	padding: 14px 28px;	
+	color: #fff;
+	border-radius: 10px;
+}
+
+.lesson_Selected {
+	color: red;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.buttons:hover {
+	background: red;
+}
+
+.wrapper {
+	display: flex;
+	gap: 200px;
+}
+
+.klor {
+	height: 30px;
+	width: 30px;
+	border-radius: 50px;
+	background: red;
+	margin-left:20px ;
+}
+
+
+.container {
+	background-color: green;
+	width: 500px;
+	height: 300px;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;	
+}
+
+ .texter {
+	overflow-y: auto;
+	margin: 20px 0 20px 20px;
+	font-size: 17px;
+ }
+
+ .texter li {
+	line-height: 22px;
+ }
+
+
+
+
+
