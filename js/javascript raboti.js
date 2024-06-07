@@ -355,7 +355,7 @@
 //         const say = () =>{ //ete functiaov gren undefainda vortev strelochnin misht vercuma ira raditelic isk raditel@ arten obgjectna es depqum
 //            console.log(this);
 //         }
-//         say();
+//         say();1
 //     }
 // }
 // obj.sayNumber();
